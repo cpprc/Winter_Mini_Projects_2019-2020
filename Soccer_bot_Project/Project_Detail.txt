@@ -1,0 +1,20 @@
+Hello everybody, I have our second/third Winter Break Mini-projects! The projects are based off concepts we utilize in the Soccer Bot project.
+The first project is based of 3D modeling, and the second is a project based off Arduino coding in the Arduino IDE. 
+I put together a project debrief video to give you some more details, check it out here: 
+https://youtu.be/8nOzpqiwy4g
+
+First project: Model a snowflake in a 3D modeling software! There are no restrictions to this project, so feel free to stretch your creativity.
+See the video for explanations of different 3D modeling softwares.
+
+Second Project: Bugfixing for input-output system of a Soccer Bot. This project is made to get you warmed up to coding in the Arduino IDE.
+Check the link below to find the initial code for you to edit! ► Disclaimer! ◄ In order to test/run your Arduino code, you need a Arduino programming board!
+See the video for options on this if you do not already have one.If you have any questions about either of my projects, or if you would like some walkthroughs on how to approach either project, 
+I am happy to give you some guidance! Below are related links:
+
+Link to Arduino Code: https://drive.google.com/file/d/1Hgx1tQuKynXxkBdQnxateOijcgC-s2-L/view?usp=sharing
+Arduino IDE Download: https://www.arduino.cc/en/main/software
+Autodesk Student Downloads: https://www.autodesk.com/education/free-software/featured
+Blender Download: https://www.blender.org/download/
+Arduino UNO on Amazon: https://www.amazon.com/dp/B01EWOE0UU/ref=cm_sw_r_tw_dp_U_x_dYLeEbEPXJFK4
+
+If you are successful in either of the projects, send me some screenshots so I can see how they turned out! Good luck everyone
